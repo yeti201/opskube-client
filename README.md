@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+search name of the book to find it and enter query by clicking search button
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
